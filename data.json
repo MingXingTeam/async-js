@@ -1,0 +1,71 @@
+[{
+  "id": 1,
+  "gender": "Female",
+  "first_name": "Julia",
+  "last_name": "Jenkins",
+  "email": "jjenkins0@upenn.edu",
+  "ip_address": "82.35.237.46"
+}, {
+  "id": 2,
+  "gender": "Female",
+  "first_name": "Robin",
+  "last_name": "Duncan",
+  "email": "rduncan1@yahoo.co.jp",
+  "ip_address": "90.186.153.1"
+}, {
+  "id": 3,
+  "gender": "Male",
+  "first_name": "Wayne",
+  "last_name": "Adams",
+  "email": "wadams2@dropbox.com",
+  "ip_address": "123.58.231.155"
+}, {
+  "id": 4,
+  "gender": "Male",
+  "first_name": "Carlos",
+  "last_name": "Alexander",
+  "email": "calexander3@japanpost.jp",
+  "ip_address": "171.162.118.84"
+}, {
+  "id": 5,
+  "gender": "Male",
+  "first_name": "Ryan",
+  "last_name": "Mason",
+  "email": "rmason4@so-net.ne.jp",
+  "ip_address": "239.80.83.209"
+}, {
+  "id": 6,
+  "gender": "Female",
+  "first_name": "Betty",
+  "last_name": "Jackson",
+  "email": "bjackson5@cam.ac.uk",
+  "ip_address": "18.141.44.205"
+}, {
+  "id": 7,
+  "gender": "Male",
+  "first_name": "Billy",
+  "last_name": "Jenkins",
+  "email": "bjenkins6@japanpost.jp",
+  "ip_address": "254.223.120.51"
+}, {
+  "id": 8,
+  "gender": "Male",
+  "first_name": "Howard",
+  "last_name": "Nichols",
+  "email": "hnichols7@amazon.co.uk",
+  "ip_address": "56.92.228.72"
+}, {
+  "id": 9,
+  "gender": "Female",
+  "first_name": "Teresa",
+  "last_name": "Wells",
+  "email": "twells8@addthis.com",
+  "ip_address": "240.234.136.203"
+}, {
+  "id": 10,
+  "gender": "Female",
+  "first_name": "Susan",
+  "last_name": "Jones",
+  "email": "sjones9@t-online.de",
+  "ip_address": "236.124.232.121"
+}]
